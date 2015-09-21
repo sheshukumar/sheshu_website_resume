@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "itssheshu"
+    },
+    "itssheshu": {
+      "applicationId": "bAlVTTqDfU0GFTMtYUIil7vwP3VsJL5sOZgfjj0m"
+    }
+  }
+}
